@@ -1,3 +1,4 @@
+"""
 IsTrue= True
 balance= 0
 name= input("please input your name:")
@@ -28,4 +29,8 @@ while IsTrue:
          else:
                print("Exiting")
                Istrue= False 
+"""
+
+
+print("hello. I am Meagan, I love Donya")
 
